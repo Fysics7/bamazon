@@ -24,3 +24,4 @@ Clone the repository, install node, run npm install to install dependencies.
 Just message me. I will help in whatever way possible.
 
 # Who maintains and contributes to the project
+I will maintain and continue to contribute to the project
